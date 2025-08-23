@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name" translatable="false">Country List Demo</string>
+
+
+    <string name="search_hint">Search…</string>
+
+    <string name="retry">Retry</string>
+    <string name="empty_list">Search not found</string>
+
+
+    <string name="coat_of_arms">Coat of Arms</string>
+    <string name="region">Regin</string>
+    <string name="subregion">Subegin</string>
+    <string name="area">Area</string>
+    <string name="population">Population</string>
+    <string name="languages">Language(s)</string>
+    <string name="currency">Currency</string>
+    <string name="timezones">Timezone(s)</string>
+
+
+    <string name="error_conection">There is not any internet connection, check your Wifi or Mobile Net</string>
+
+    <string name="user_error">Bad Credentials</string>
+    <string name="unauthorized_error">Unauthorized</string>
+    <string name="bad_method_error">Bad Method</string>
+    <string name="not_found_error">Not Found</string>
+    <string name="car_driver_site">Car Driver Site</string>
+    <string name="right">RIGHT</string>
+    <string name="left">LEFT</string>
+
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+
+    <string name="unknown_error">Unknown Error</string>
+    <string name="loading_countries">Loading countries…</string>
+    <string name="loading_country_detail">Loading country details…</string>
+
+
+    <string name="blank_long" translatable="false">%,d</string>
+</resources>

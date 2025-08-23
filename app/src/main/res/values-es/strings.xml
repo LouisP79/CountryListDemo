@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_conection">No hay nungún tipo de conexión a internet, verifíca tu Wifi o Datos</string>
+    <string name="unknown_error">Error Desconocido</string>
+    <string name="user_error">Usuario Incorrecto</string>
+    <string name="bad_method_error">Método Incorrecto</string>
+    <string name="not_found_error">No encontrado</string>
+    <string name="car_driver_site">Sitio de manejo del conductor</string>
+    <string name="right">DERECHO</string>
+    <string name="left">IZQUIERDO</string>
+
+    <string name="home">Inicio</string>
+    <string name="favorites">Favoritos</string>
+
+    <string name="coat_of_arms">Escudo</string>
+
+    <string name="region">Región</string>
+    <string name="subregion">Sub-Región</string>
+    <string name="area">Área</string>
+    <string name="population">Población</string>
+    <string name="languages">Idiomas</string>
+    <string name="currency">Moneda</string>
+    <string name="timezones">Zona Horaria</string>
+
+
+    <string name="retry">Reintentar</string>
+    <string name="empty_list">No se encontraron resultados</string>
+
+    <string name="unauthorized_error">No autorizado</string>
+    <string name="search_hint">Buscar…</string>
+    <string name="loading_countries">Cargando paises…</string>
+    <string name="loading_country_detail">Cargando detale del país…</string>
+</resources>

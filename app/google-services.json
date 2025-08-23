@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568644873201",
+    "project_id": "examen-interfell",
+    "storage_bucket": "examen-interfell.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568644873201:android:6690a568d7ef275c0e3250",
+        "android_client_info": {
+          "package_name": "com.countrylist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Zt8vJ0kEtlPulBo2hFtI9DqspzoVD2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
