@@ -1,10 +1,8 @@
 package com.countrylist.ui.navigation
 
-import androidx.compose.ui.res.stringResource
 import com.countrylist.R
 
 const val HOME = "home"
-const val BUTTON = "BUTTON"
 const val FAVORITES = "favorites"
 const val COUNTRY_NAME = "countryName"
 const val DETAIL = "detail/{$COUNTRY_NAME}"
